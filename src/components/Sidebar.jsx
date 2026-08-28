@@ -1,5 +1,6 @@
 // Sidebar.jsx
 import React from "react";
+import { Link } from "react-router-dom"; 
 
 const Sidebar = () => {
   const sidebarStyle = {
@@ -9,23 +10,25 @@ const Sidebar = () => {
     right: 0, 
     top: 0,
     backgroundColor: "#0a0a23",
-    
+    zIndex: 1000, 
   };
 
   return (
     <div style={sidebarStyle}>
+      <br/>
       <h2>The Gate</h2>
       <nav>
         <ul style={{ listStyle: "none", padding: 0 }}>
           <li>
-            <a href="#gaming" style={{ color: "white" }}>
+            
+            <Link to="/gaming" style={{ color: "white" }}>
               Gaming
-            </a>
+            </Link>
           </li>
           <li>
-            <a href="#tech" style={{ color: "white" }}>
+            <Link to="/tech" style={{ color: "white" }}>
               Technology
-            </a>
+            </Link>
           </li>
         </ul>
       </nav>

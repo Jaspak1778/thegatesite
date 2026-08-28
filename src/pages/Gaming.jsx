@@ -2,7 +2,7 @@ import React from 'react'
 
 const Gaming = () => {
   return (
-    <div>Gaming</div>
+    <div>Gaming asiat tänne</div>
   )
 }
 
