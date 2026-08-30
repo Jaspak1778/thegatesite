@@ -4,6 +4,7 @@ import Layout from './components/Layout';
 import Home from './pages/Home';
 import Gaming from './pages/Gaming';
 import Tech from './pages/Tech';
+import News from './pages/News';
 
 const router = createBrowserRouter([
   {
@@ -13,6 +14,7 @@ const router = createBrowserRouter([
       { path: "/", element: <Home /> },
       { path: "gaming", element: <Gaming /> },
       { path: "tech", element: <Tech /> },
+      {path: "news", element: <News />}
     ],
   },
 ]);

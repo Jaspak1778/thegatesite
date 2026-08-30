@@ -20,7 +20,7 @@ const Sidebar = () => {
       <nav>
         <ul style={{ listStyle: "none", padding: 0 }}>
           <li>
-            
+             
             <Link to="/gaming" style={{ color: "white" }}>
               Gaming
             </Link>

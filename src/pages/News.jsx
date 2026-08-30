@@ -1,8 +1,9 @@
 import ReactMarkdown from "react-markdown";
-import news from "../content/uutiset.md?raw";
+import article1 from "../content/articles_1.md?raw";
 import "../App.css";
 
-const Home = () => {
+
+const News = () => {
   return (
     <>
       <header>
@@ -12,9 +13,11 @@ const Home = () => {
             marginLeft: "4%",
             fontSize: "1.5rem",
             color: "black",
+            textAlign :"left",
+            backgroundColor : "lightgray"
           }}
         >
-          Gaming ja Tech katsauksia - Tervetuloa porttien sisälle
+          Uutiset
         </h1>
       </header>
 
@@ -26,21 +29,11 @@ const Home = () => {
           color: "black",
         }}
       >
-        <div>
-          <h1
-            style={{backgroundColor: "lightgray", 
-              textAlign : "left"
-            }}
-          >
-            Peliuutiset
-          </h1>
-        </div>
-
         <br></br>
-        <ReactMarkdown>{news}</ReactMarkdown>
+        <ReactMarkdown>{article1}</ReactMarkdown>
       </section>
     </>
   );
 };
 
-export default Home;
+export default News

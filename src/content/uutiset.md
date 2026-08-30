@@ -1,5 +1,8 @@
-Suuri Playstation blackout on käynnisssä
+Playstation Blackout on käynnissä, monet pelaajat vastustavata Sonyn aikeita luopua fyysisistä levyistä.
+Pelaajat ovat käynnistäneet tapahtuman jossa Sonyn tuotteet ja palvelut 
+jätetään käyttämättä.
 
-Gamesconin poimintoja.
+Playstation Blackout on käynnissä, monet pelaajat vastustavata Sonyn aikeita luopua fyysisistä levyistä.
+Pelaajat ovat käynnistäneet tapahtuman jossa Sonyn tuotteet ja palvelut jätetään käyttämättä.
 
-STEAM Alet alkavat taas, käy kurkkaamassa tämän hetken alennus suositukset !
+
