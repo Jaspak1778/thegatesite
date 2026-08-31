@@ -2,7 +2,6 @@ import ReactMarkdown from "react-markdown";
 import article1 from "../content/articles_1.md?raw";
 import "../App.css";
 
-
 const News = () => {
   return (
     <>
@@ -20,7 +19,6 @@ const News = () => {
           Uutiset
         </h1>
       </header>
-
       <section
         style={{
           justifyContent: "center",

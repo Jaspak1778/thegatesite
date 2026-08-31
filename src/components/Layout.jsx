@@ -7,7 +7,7 @@ const Layout = () => {
   return (
     <>
       <div style={{ display: "flex", minHeight: "100vh" }}>
-        <main style={{ padding: "20px", width: "100%" }}>
+        <main style={{ padding: "20px", width: "100%"}}>
           <div>
             <Navbar />
             <Outlet />

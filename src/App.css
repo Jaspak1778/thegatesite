@@ -1,4 +1,19 @@
 p{
     color: black;
     margin-left: 5%;
+    font-family: 'Yu Gothic Medium';
+    /*text-align: left;*/
+}
+
+blockquote {
+  background-color: #a78d1a5b; /* Harmaa taustaväri */
+  border-left: 4px solid #010516d0;
+   border-right: 4px solid #010516d0; /* Perinteinen vasen reunaviiva (valinnainen) */
+  padding: 10px 15px;       /* Sisämarginaali tekstin ympärille */
+  margin: 10px 0;  
+  margin-top: -2%;           /* Ulkomarginaali */
+  border-radius: 4px;         /* Pyöristetyt kulmat (valinnainen) */
+  color: #333;                /* Tekstin väri */
+  text-align: left;
+  font-family: 'Segoe UI';
 }
