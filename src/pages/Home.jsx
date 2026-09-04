@@ -1,44 +1,16 @@
-import ReactMarkdown from "react-markdown";
-import news from "../content/uutiset.md?raw";
-import "../App.css";
+import NewsFeed from "../components/NewsFeed";
+import "../App.css"
+
 
 const Home = () => {
   return (
     <>
-      <header>
-        <h1
-          style={{
-            marginTop: "4%",
-            marginLeft: "4%",
-            fontSize: "1.5rem",
-            color: "black",
-          }}
-        >
-          Gaming ja Tech katsauksia - Tervetuloa porttien sisälle
-        </h1>
+      <header className="home-header">
+        <h1>Gaming ja Tech katsauksia - Tervetuloa porttien sisälle</h1>
       </header>
 
-      <section
-        style={{
-          justifyContent: "center",
-          margin: "5%",
-          border: "1px solid grey",
-          color: "black",
-        }}
-      >
-        <div>
-          <h1
-            style={{backgroundColor: "lightgray", 
-              textAlign : "left"
-            }}
-          >
-            Peliuutiset
-          </h1>
-        </div>
-
-        <br></br>
-        <ReactMarkdown>{news}</ReactMarkdown>
-      </section>
+      {/* Renderöidään uutisosio tähän */}
+      <NewsFeed />
     </>
   );
 };

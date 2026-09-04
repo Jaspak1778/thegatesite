@@ -1,19 +1,53 @@
-p{
-    color: black;
-    margin-left: 5%;
-    font-family: 'Yu Gothic Medium';
-    /*text-align: left;*/
+:root {
+  --accent-navy: #010516d0;
+  --light: #ffffff;
+  --black: #000000;
+  --gray: silver  ;
+  --quote-bg: #0a0a0c; 
+  --red-border: 2px solid rgb(237, 2, 2); 
+  
+  /* Otsikot */
+  --header-purple-start: #6e63a6;
+  --header-purple-end: #15104a;
 }
 
-blockquote {
-  background-color: #a78d1a5b; /* Harmaa taustaväri */
-  border-left: 4px solid #010516d0;
-   border-right: 4px solid #010516d0; /* Perinteinen vasen reunaviiva (valinnainen) */
-  padding: 10px 15px;       /* Sisämarginaali tekstin ympärille */
-  margin: 10px 0;  
-  margin-top: -2%;           /* Ulkomarginaali */
-  border-radius: 4px;         /* Pyöristetyt kulmat (valinnainen) */
-  color: #333;                /* Tekstin väri */
-  text-align: left;
-  font-family: 'Segoe UI';
+.home-header h1 {
+  margin-top: 4%;
+  margin-left: 4%;
+  font-size: 1.5rem;
+  color: black;
+}
+
+  /* Uutiset */
+.news-section p {
+  color: #0d0d0d; 
+  margin-left: 2%;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  line-height: 1.5;
+}
+
+.news-section h1 {
+  color: #7c2222; 
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.news-section h2 {
+  margin-top: 5%;
+  color: #0d0d0d; 
+  background: var(--gray);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.news-section blockquote h4 {
+  background: linear-gradient(90deg, var(--header-purple-start) 0%, var(--header-purple-end) 100%);
+  
+  border-top: var(--red-border);
+  border-radius: 4px; 
+  padding: 6px 12px;  
+  margin: 4px 0 10px 0; 
+  color: var(--light);
+  font-family: 'Segoe UI', sans-serif; 
 }

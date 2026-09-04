@@ -14,13 +14,13 @@ const Sidebar = () => {
   };
 
   return (
-    <div style={sidebarStyle}>
+    
+    <div style={sidebarStyle} className="d-none d-lg-block">
       <br/>
       <h2>The Gate</h2>
       <nav>
         <ul style={{ listStyle: "none", padding: 0 }}>
           <li>
-             
             <Link to="/gaming" style={{ color: "white" }}>
               Gaming
             </Link>
