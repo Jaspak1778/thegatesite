@@ -22,7 +22,7 @@ Xbox on päättäny tukea levy mediaa vielä toistaiseksi
 ShiftUp yhtiön menestyspeli on viimein saatavilla Nintendo Switch 2 lle
 ja se on tehty huolella!
 
-> #### ![Katso kaikki uutiset täältä](/News)
+> #### [Katso kaikki uutiset täältä](/News)
 The Gaten toimitus tarjoaa pelaaja ystävällistä journalismia [Uutiset](/News)
 
 > #### Ohjain
