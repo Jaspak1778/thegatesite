@@ -23,7 +23,7 @@ ShiftUp yhtiön menestyspeli on viimein saatavilla Nintendo Switch 2 lle
 ja se on tehty huolella!
 
 > #### [Katso kaikki uutiset täältä](/News)
-The Gaten toimitus tarjoaa pelaaja ystävällistä journalismia !
+The Gaten toimitus tarjoaa pelaaja ystävällistä journalismia
 
 > #### Ohjain
 
