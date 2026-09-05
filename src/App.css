@@ -19,6 +19,16 @@
 }
 
   /* Uutiset */
+.news-section a {
+  color : white;
+  
+}
+
+.news-section :hover a {
+  color : rgb(215, 60, 60);
+  
+}
+
 .news-section p {
   color: #0d0d0d; 
   margin-left: 2%;
@@ -37,6 +47,7 @@
   margin-top: 5%;
   color: #0d0d0d; 
   background: var(--gray);
+  text-align: left;
   font-weight: 600;
   letter-spacing: 0.5px;
 }

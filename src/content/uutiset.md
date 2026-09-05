@@ -22,7 +22,9 @@ Xbox on päättäny tukea levy mediaa vielä toistaiseksi
 ShiftUp yhtiön menestyspeli on viimein saatavilla Nintendo Switch 2 lle
 ja se on tehty huolella!
 
-> #### Katso kaikki uutiset täältä
+> #### [Katso kaikki uutiset täältä](/News)
 The Gate [Uutiset](/News)
 
+> #### Ohjain
 
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF98DKa_wrkzjwrRIGsnMAdnMXBFngCY-RUn9aJ-4Y-g&s=10)

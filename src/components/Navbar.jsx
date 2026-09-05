@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 
 function Rnavbar() {
   return (
-    <Navbar expand="lg" className="bg-body-tertiary">
+    <Navbar bg="light" data-bs-theme="light">
       <Container>
         <Navbar.Brand as={Link} to="/">  {/*Käytä as={Link} ja to= (kohde) */}
           <div>
@@ -27,7 +27,7 @@ function Rnavbar() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link to="/">Home</Nav.Link>
+            
             <Nav.Link as={Link} to={"News"}>Uutiset</Nav.Link>
             <NavDropdown title="Gaming" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
