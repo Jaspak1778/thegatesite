@@ -8,8 +8,7 @@ const Home = () => {
       <header className="home-header">
         <h1>Gaming ja Tech katsauksia - Tervetuloa porttien sisälle</h1>
       </header>
-
-      {/* Renderöidään uutisosio tähän */}
+     
       <NewsFeed />
     </>
   );

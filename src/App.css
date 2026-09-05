@@ -5,6 +5,7 @@
   --gray: silver  ;
   --quote-bg: #0a0a0c; 
   --red-border: 2px solid rgb(237, 2, 2); 
+  --highlight : rgb(232, 10, 10);
   
   /* Otsikot */
   --header-purple-start: #6e63a6;
@@ -21,11 +22,14 @@
   /* Uutiset */
 .news-section a {
   color : white;
+  text-decoration: none;
   
 }
 
 .news-section :hover a {
-  color : rgb(215, 60, 60);
+  color : var(--highlight);
+  text-shadow: 2px 2px 5px var(--highlight);
+
   
 }
 

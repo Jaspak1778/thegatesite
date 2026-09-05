@@ -14,10 +14,12 @@ function Rnavbar() {
           <div>
             <img
               src={logo}
-              alt="Gate"
+              alt="GATE"
               style={{
-                width: "150px",
-                height: "60px",
+                border: "solid white 5px",
+                borderRadius :"8px",
+                width: "175px",
+                height: "70px",
                 marginRight: "75%",
                 marginTop: "2%",
               }}
