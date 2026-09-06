@@ -26,5 +26,7 @@ ja se on tehty huolella!
 The Gaten toimitus tarjoaa pelaaja ystävällistä journalismia [Uutiset](/News)
 
 > #### Ohjain
+Testataan vielä syötettä
+Tämä on kirjoitettu GitHubin kautta
 
 ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF98DKa_wrkzjwrRIGsnMAdnMXBFngCY-RUn9aJ-4Y-g&s=10)

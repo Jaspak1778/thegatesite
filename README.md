@@ -12,5 +12,3 @@ Bootstrap
 Markdwon
 VSCode
 Netlify
-
-GH CLI
