@@ -7,8 +7,11 @@
 # Katso toimituksen suositukset !
 
 Resident Evil Remake 9,99€ Capcomin legendaarinen Zombie seikkailu.
-Grand Theft Auto V 14,99€
+
+Grand Theft Auto V 14,99€.
+
 No Man's Sky 23,59€
+
 Monster Hunter Wilds 29,99€
 
 > #### Xbox vs Sony
