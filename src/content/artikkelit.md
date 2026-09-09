@@ -1,4 +1,5 @@
-## The PlayStation Blackout ja XBOXin uudet tuulet
+id: playstation
+## The PlayStation Blackout ja XBOX n uudet tuulet
 
 &nbsp;
 Samaan aikaan kun Sony on kertonut aikeistaan lopettaa fyysisten pelien julkaisut niin Xboxin uusi CEO Asha Sharma on ideoinut uuden tavan järjestää pelikirjastoa.
@@ -18,4 +19,15 @@ Kampanjan pani alulle pelien säilyvyyttä ja kuluttajaoikeuksia ajava Does It P
 Boikotti ajoittui samaan kuukauteen, jona Sonyn toimitusjohtaja Hiroki Totoki vahvisti, ettei tulevalla PlayStation 6 -konsolilla ole vielä sisäistä julkaisupäivää. Syyksi on raportoitu tekoälybuumin aiheuttama globaali DRAM-muistipula, joka jarruttaa uuden laitteiston suunnittelua.] 
 Vaikka virallinen boikottiviikko päättyi 30. elokuuta, osa pelaajista ja pelialan vaikuttajista on uhannut jatkaa "blackoutia" epämääräisen ajan painostaakseen yhtiötä muuttamaan digitaalista strategiaansa.
 
-___
+---
+
+id: uutiset2
+#### Lisää uutisia tähän 2
+
+Uutisointia
+
+---
+id: uutiset3
+#### Lisää uutisia tähän 3
+
+Uutisointia
