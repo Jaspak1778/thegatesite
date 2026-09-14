@@ -1,4 +1,3 @@
-// src/App.jsx
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './pages/Home';
@@ -14,7 +13,7 @@ const router = createBrowserRouter([
       { path: "/", element: <Home /> },
       { path: "gaming", element: <Gaming /> },
       { path: "tech", element: <Tech /> },
-      {path: "news", element: <News />}
+      { path: "news/:articleId?", element: <News /> }  //muista id articles_1 tiedostoon
     ],
   },
 ]);
