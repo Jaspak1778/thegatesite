@@ -8,7 +8,7 @@ import News from './pages/News';
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Layout />, 
+    element: <Layout />,
     children: [
       { path: "/", element: <Home /> },
       { path: "gaming", element: <Gaming /> },
@@ -16,7 +16,10 @@ const router = createBrowserRouter([
       { path: "news/:articleId?", element: <News /> }  //muista id articles_1 tiedostoon
     ],
   },
-]);
+],
+  {
+    basename: "/thegatesite", // Lisää tämä toiseksi argumentiksi
+  });
 
 function App() {
   return <RouterProvider router={router} />;
