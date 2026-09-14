@@ -30,3 +30,7 @@ ShiftUp yhtiön menestyspeli on viimein saatavilla Nintendo Switch 2 lle
 ja se on tehty huolella!
 
 ---
+
+> #### Uutisia
+
+[Linkki](/News/uutiset2)

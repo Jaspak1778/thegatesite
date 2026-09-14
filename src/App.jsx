@@ -18,7 +18,7 @@ const router = createBrowserRouter([
   },
 ],
   {
-    basename: "/thegatesite", // Lisää tämä toiseksi argumentiksi
+    basename: "/thegatesite", 
   });
 
 function App() {
