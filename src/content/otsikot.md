@@ -14,19 +14,19 @@ Phantom BZ on saanut pelaajien arvosanan 9.0 niin Steamissa kuin Metacritic sivu
 ###### S-GAME esittelee Phantom Blade Zeron, joka yhdistää klassista Wuxia-tarinankerrontaa ja jännittävää toimintaa Unreal Engine 5:llä. Pelaat Soulina, soturina, jolla on enää kuusikymmentäkuusi päivää elinaikaa. Torju salamurhaajia, selvitä maailmaa tuhoavia salaliittoja ja puolusta arvojasi hengelläsi.
 (Lainaus Steam kauppasivu)
 
-> #### Steamin syksyn alet
-
-# Katso toimituksen suositukset !
+> #### Steamin suositut pelit
 
 RUST 19,99€
 
-Resident Evil Remake 9,99€ Capcomin legendaarinen Zombie seikkailu.
+Resident Evil 4 Remake 9,99€ Capcomin legendaarinen Zombie seikkailu!
 
-Grand Theft Auto V 14,99€.
+Crimson Desert Enhanced 69,99€
 
-No Man's Sky 23,59€
+# Free-To-Play
+Pelaa ilmaiseksi!
 
-Monster Hunter Wilds 29,99€
+Aion 2
+The First Descendant
 
 ---
 
