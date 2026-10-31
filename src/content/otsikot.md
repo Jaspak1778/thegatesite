@@ -18,6 +18,8 @@ Phantom BZ on saanut pelaajien arvosanan 9.0 niin Steamissa kuin Metacritic sivu
 
 # Katso toimituksen suositukset !
 
+RUST 19,99€
+
 Resident Evil Remake 9,99€ Capcomin legendaarinen Zombie seikkailu.
 
 Grand Theft Auto V 14,99€.
