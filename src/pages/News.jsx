@@ -51,7 +51,7 @@ const News = () => {
 
       <aside className="news-sidebar">
 
-        {/*Voidaaan ottaa käyttöön jos haluaa näyttää muut linkit tai vaihtoehtoisia esim liittyviä linkkejä*/}
+        {/* Voidaaan ottaa käyttöön jos haluaa näyttää muut linkit tai vaihtoehtoisia esim liittyviä linkkejä*/}
 
         <h3>Kaikki artikkelit</h3>
         <ul>
