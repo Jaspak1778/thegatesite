@@ -22,10 +22,10 @@ Resident Evil 4 Remake 9,99€ Capcomin legendaarinen Zombie seikkailu!
 
 Crimson Desert Enhanced 69,99€
 
-# Free-To-Play
-Pelaa ilmaiseksi!
+# Pelaa ilmaiseksi! 
 
 Aion 2
+
 The First Descendant
 
 ---
